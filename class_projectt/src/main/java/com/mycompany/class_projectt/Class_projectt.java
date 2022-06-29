@@ -25,5 +25,6 @@ public class Class_projectt {
         double average = sum / numArray.length;
         System.out.format("The average is: %.2f", average);
         System.out.println("Hello!!!!");
+        System.out.println("hey team!!!!");
     }
 }

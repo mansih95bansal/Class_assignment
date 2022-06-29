@@ -13,7 +13,7 @@ public class Class_assignment {
 
     public static void main(String[] args) {
       int i,total;
-      int a[] = {6,9,7};
+      int a[] = {6,9,7,8};
       int n = 5;
       total = 0;
 

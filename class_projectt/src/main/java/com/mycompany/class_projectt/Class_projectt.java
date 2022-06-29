@@ -26,5 +26,6 @@ public class Class_projectt {
         System.out.format("The average is: %.2f", average);
         System.out.println("Hello!!!!");
         System.out.println("hey team!!!!");
+        System.out.println("Welcome to class assigment!!!!");
     }
 }

@@ -14,7 +14,7 @@ package com.mycompany.class_projectt;
 public class Class_projectt {
 
     public static void main(String[] args) {
-        double[] numArray = { 45.3, 67.5,20.34};
+        double[] numArray = { 45.3, 67.5,20.3, 55};
         double sum = 0.0;
 
         for (double num: numArray) {

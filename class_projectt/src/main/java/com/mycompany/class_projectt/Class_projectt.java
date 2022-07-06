@@ -8,7 +8,7 @@ package com.mycompany.class_projectt;
 /**
  *
  * @author 91706
- * Group Task 
+
  * 
  */
 public class Class_projectt {

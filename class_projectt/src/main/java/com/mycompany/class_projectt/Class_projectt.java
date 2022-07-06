@@ -9,7 +9,6 @@ package com.mycompany.class_projectt;
  *
  * @author 91706
  * Group Task 
- * how r u 
  * 
  */
 public class Class_projectt {

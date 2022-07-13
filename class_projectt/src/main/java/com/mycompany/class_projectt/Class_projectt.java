@@ -20,7 +20,6 @@ public class Class_projectt {
         System.out.println("Hello People");
         System.out.println("Hello People");
         System.out.println("Hello People");
-        System.out.println("Hello People");
 
 
         for (double num: numArray) {

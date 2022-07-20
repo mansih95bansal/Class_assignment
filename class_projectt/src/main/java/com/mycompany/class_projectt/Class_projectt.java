@@ -24,6 +24,8 @@ public class Class_projectt {
         System.out.println("Manish Bansal27 july 2022");
         System.out.println("Gurkirat Singh 27 july 2022");
         System.out.println("Gurpreet Jassi 27 july 2022");
+        System.out.println("Chaya Kalapala 27 july 2022");
+
 
         for (double num: numArray) {
            sum += num;
